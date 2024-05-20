@@ -1,4 +1,4 @@
-# sneakers_app
+# Collection luxury
 
 A new Flutter project.
 
